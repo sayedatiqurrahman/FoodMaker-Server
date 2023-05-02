@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://s3.amazonaws.com/",
+        "chefPicture": "https://i.ibb.co/3475fpY/image.png",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "bio": "John is a classically trained chef with a passion for creating delicious and innovative dishes. He has worked in top restaurants around the world and has won numerous awards for his culinary creations.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/dbWrpww/image.png",
+        "chefName": "Jane Doe",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "bio": "Jane is a self-taught chef who discovered her love for cooking at a young age. She specializes in vegetarian and vegan cuisine and loves experimenting with new ingredients and flavors.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/vxLHGRt/image.png",
+        "chefName": "David Lee",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "bio": "David is a celebrity chef who has hosted several popular cooking shows and written multiple cookbooks. He is known for his fusion cuisine and creative use of spices and herbs.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/FVB7XMS/image.png",
+        "chefName": "Maria Rodriguez",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 60,
+        "likes": 800,
+        "bio": "Maria is a chef with a passion for creating healthy and flavorful dishes. She focuses on using fresh, locally sourced ingredients and loves to experiment with new flavor combinations.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/BjyGpb7/image.png",
+        "chefName": "Satoshi Nakamura",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 200,
+        "likes": 5000,
+        "bio": "Satoshi is a master sushi chef who has trained under some of the top sushi chefs in Japan. He is known for his attention to detail and the quality of his ingredients.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/WKNx5c5/image.png",
+        "chefName": "Sophie Williams",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 75,
+        "likes": 1200,
+        "bio": "Sophie is a pastry chef who specializes in creating beautiful and delicious desserts. She is passionate about using seasonal ingredients and loves to create unique flavor combinations.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/r416TZG/image.png",
+        "chefName": "Juan Lopez",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 30,
+        "likes": 400,
+        "bio": "Juan is a chef who specializes in traditional Mexican cuisine. He is passionate about preserving the authentic flavors and techniques of Mexican cooking and loves to share his knowledge with others.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "thumbnail": "https://",
+        "chefPicture": "https://i.ibb.co/XCtwVtt/image.png",
+        "chefName": "Emily Chen",
+        "yearsOfExperience": 3,
+        "numberOfRecipes": 10,
+        "likes": 200,
+        "bio": "Emily is a master sushi chef who has trained under some of the top sushi chefs in Japan. He is known for his attention to detail and the quality of his ingredients.",
+        "ratings": 5.00,
+        "recipes": [
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            },
+            {
+                "name": "Seared Salmon with Roasted Vegetables",
+                "image": "https://i.ibb.co/6N24vHb/salmon.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Garlic",
+                    "Lemon"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Toss vegetables with olive oil and garlic and spread on a baking sheet. Season salmon fillets with salt and pepper, then sear in a hot skillet until crispy on both sides. Transfer salmon to baking sheet with vegetables and roast for 12-15 minutes until cooked through. Squeeze fresh lemon juice over salmon and vegetables before serving."
+            },
+            {
+                "name": "Beef Wellington",
+                "image": "https://i.ibb.co/JRJMDhD/beef-wellington.jpg",
+                "ingredients": [
+                    "Beef tenderloin",
+                    "Puff pastry",
+                    "Mushrooms",
+                    "Shallots",
+                    "Garlic"
+                ],
+                "cookingMethod": "Preheat oven to 425°F. Sear beef tenderloin in a hot skillet until browned on all sides, then set aside. Saute chopped mushrooms, shallots, and garlic in the same skillet until softened, then set aside to cool. Roll out puff pastry and spread cooled mushroom mixture over the center. Place seared beef tenderloin on top of the mushroom mixture, then wrap the pastry around the beef. Brush with beaten egg and bake for 25-30 minutes, or until the pastry is golden brown and the beef is cooked to your liking."
+            }
+        ]
+    }
+]

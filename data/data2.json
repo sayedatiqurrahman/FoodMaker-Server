@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/3475fpY/image.png",
+    "chefName": "John Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 1000,
+    "bio": "John is a classically trained chef with a passion for creating delicious and innovative dishes. He has worked in top restaurants around the world and has won numerous awards for his culinary creations.",
+   
+}
