@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "customerName": "Alice",
+        "customerComment": "The food was amazing! I especially loved the grilled salmon.",
+        "image": "https://i.ibb.co/nDSV5v2/4765251694c36887e308043b798660c1-corporate-portrait-business-portrait.jpg"
+    },
+    {
+        "id": 2,
+        "customerName": "Bob",
+        "customerComment": "The chef really knows how to make a great burger. Highly recommend!",
+        "image": "https://i.ibb.co/VxLzT3x/imengine-editorial-prod-rgb-navigacloud.jpg"
+    },
+    {
+        "id": 3,
+        "customerName": "Charlie",
+        "customerComment": "The pasta was cooked to perfection. I can't wait to come back and try more dishes!",
+        "image": "https://i.ibb.co/ZK6PzcS/photo-1560250097-0b93528c311a.jpg"
+    },
+    {
+        "id": 4,
+        "customerName": "Dave",
+        "customerComment": "The restaurant has a great atmosphere and the food was delicious. I highly recommend the steak!",
+        "image": "https://i.ibb.co/vBFHfbC/istockphoto-691910403-170667a.jpg"
+    },
+    {
+        "id": 5,
+        "customerName": "Eve",
+        "customerComment": "The dessert menu was amazing. I highly recommend the chocolate cake!",
+        "image": "https://i.ibb.co/G7Rxj7K/image.png"
+    },
+    {
+        "id": 6,
+        "customerName": "Frank",
+        "customerComment": "The chef is a culinary genius. Every dish was perfectly balanced and delicious.",
+        "image": "https://i.ibb.co/WnJfWrh/istockphoto-1303206644-612x612.jpg"
+    },
+    {
+        "id": 7,
+        "customerName": "Grace",
+        "customerComment": "The staff was very friendly and accommodating. They made our dining experience even better!",
+        "image": "https://i.ibb.co/nDcvpTW/images.jpg"
+    },
+    {
+        "id": 8,
+        "customerName": "Hank",
+        "customerComment": "The restaurant has a great selection of wine. The sommelier was very knowledgeable and helped us find the perfect bottle to pair with our meal.",
+        "image": "https://i.ibb.co/cyZ6h50/download.jpg"
+    }
+]

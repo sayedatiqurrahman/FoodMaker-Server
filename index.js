@@ -1,5 +1,6 @@
 const express = require('express');
-const data = require('./data/data.json')
+const data = require('./data/data.json');
+const customer = require('./data/customer.json');
 const app = express();
 const cors = require('cors');
 app.use(cors());
@@ -15,6 +16,9 @@ app.get('/singleChef/:id', (req, res) => {
     res.send(singleData)
 })
 
+app.get('/customer', (req, res) => {
+    res.send(customer)
+})
 
 app.listen(port, () => {
     console.log('Listening on port', port)
